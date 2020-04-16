@@ -17,7 +17,7 @@
 
 - 6- Now your are ready to execute the function in GCP , just click over execute >> execute function >> MyFunction()
 
-- 7- Enjoy your links in your Google script!!!
+- 7- Enjoy your links in your Google sheet!!!
 
 
 
