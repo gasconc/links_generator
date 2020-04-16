@@ -1,4 +1,4 @@
-### MERCADOPAGO LINKS GENERATOR
+### MERCADOPAGO's LINKs GENERATOR
 
 ### Getting started
 
